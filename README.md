@@ -1,4 +1,6 @@
-Storichat README- Link
+Storichat README(Testichat is the manual and less advanced version of Storichat)
+Link: https://stori-chat--porbis.replit.app/
+
 
 
 Storichat is an AI-powered mental health chatbot designed to support users by responding to their questions with insights drawn from real, anonymized stories shared by others. While I leveraged AI tools throughout the development process, I also customized the code and made manual adjustments to the style. Additionally, I handled debugging with some assistance from AI, ensuring the final product was both functional and user-friendly.
